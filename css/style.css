@@ -1,0 +1,25 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5rem;
+}
+
+.hide-box {
+  color: transparent;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 2px;
+  padding-left: 3px;
+  padding-right: 3px;
+
+}
+
+.hide-box:hover {
+  color: black;
+}
+
+.code {
+  background-color:mintcream;
+  width: 80%;
+  font-family: 'Courier New', Courier, monospace
+}
